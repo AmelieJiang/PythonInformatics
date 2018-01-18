@@ -1,2 +1,2 @@
 # PythonInformatics
-Exercises for Python Informatics
+Exercises for the book - Python Informatics
